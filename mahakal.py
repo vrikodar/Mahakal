@@ -7,6 +7,7 @@ import os
 import sys
 import time
 from termcolor import colored
+#importing the required libraries
 
 golo = '''
     ...     ..      ..                                               ..                        .. 
@@ -43,46 +44,57 @@ print(colored(supported_hashes, 'green'))
 if len(sys.argv) != 4:
     print("[*]Usage python3 mahakal.py <hash-value> <hash-type> <path-to-password-file>\n")
     sys.exit(0)
+    #Checking for correct number of arguments
 
 hash_value = sys.argv[1]
 hash_type = sys.argv[2]
 pass_file = sys.argv[3]
-
+#Receiving the neccessary arguments for cracking the hash value...
 
 if os.path.exists(pass_file) == False:
     print(colored("[!]Password File Not Found...exiting now", "red", attrs=['bold']))
     sys.exit(0)
+#Check if the specified password file exists or not...
 
 with open(pass_file, 'r') as file:
     for line in file.readlines():
+        #open and read the file containig passwords to check with
         if hash_type == 'md5':
+            #condition to check if the hash type is MD5
             hash_object = hashlib.md5(line.strip().encode())
             hashed = hash_object.hexdigest()
             if hashed == hash_value:
+                #if the hash_value given equals the hashed_value from passwords at any point print the cracked hash value and exit the program
                 print("[*]Initializing Mahakal. . . . .")
                 print(colored(f"\n\n[+]MD5 Hash Cracked Successfully------Value = {line.strip()}\n\n", 'green', attrs=['bold']))
                 sys.exit(0)
 
         elif hash_type == 'sha1':
+            #condition to check if the hash type is SHA-1
             hash_object = hashlib.sha1(line.strip().encode())
             hashed = hash_object.hexdigest()
             if hashed == hash_value:
+                #if the hash_value given equals the hashed_value from passwords at any point print the cracked hash value and exit the program
                 print("[*]Initializing Mahakal. . . . .")
                 print(colored(f"\n\n[+]SHA-1 Hash Cracked Successfully------Value = {line.strip()}\n\n", 'green', attrs=['bold']))
                 sys.exit(0)
         
         elif hash_type == 'sha256':
+            #condition to check if the hash type is SHA-256
             hash_object = hashlib.sha256(line.strip().encode())
             hashed = hash_object.hexdigest()
             if hashed == hash_value:
+                #if the hash_value given equals the hashed_value from passwords at any point print the cracked hash value and exit the program
                 print("[*]Initializing Mahakal. . . . .")
                 print(colored(f"\n\n[+]SHA-256 Hash Cracked Successfully------Value = {line.strip()}\n\n", 'green', attrs=['bold']))
                 sys.exit(0)
 
         elif hash_type == 'sha512':
+            #condition to check if the hash type is SHA-512
             hash_object = hashlib.sha512(line.strip().encode())
             hashed = hash_object.hexdigest()
             if hashed == hash_value:
+                #if the hash_value given equals the hashed_value from passwords at any point print the cracked hash value and exit the program
                 print("[*]Initializing Mahakal. . . . .")
                 print(colored(f"\n\n[+]SHA-512 Hash Cracked Successfully------Value = {line.strip()}\n\n", 'green', attrs=['bold']))
                 sys.exit(0)
