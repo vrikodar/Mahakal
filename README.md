@@ -13,3 +13,38 @@
 
 
 `Mahakal is a light weight CPU friendly Hash Cracker`  
+
+
+# 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
+
+` 1 chmod +x install.sh`
+
+`2 ./install.sh`
+
+# 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢
+
+**`Use Python3 to run the Program`**
+
+*Supported Hash Types with Mahakal*
+
+*`MD5`*
+
+*`SHA-1`*
+
+*`SHA-256`*
+
+*`SHA-512`*
+
+
+# 𝙍𝙐𝙉𝙉𝙄𝙉𝙂
+To run Mahakal Simply Execute the Following Command....with respective values....
+
+`python3 mahakal.py <hash-value> <hash-type> <path-to-password-file>`
+
+
+# 𝑴𝑨𝑲𝑬_𝑰𝑻_𝑩𝑬𝑻𝑻𝑬𝑹
+To make Mahakal Even Better Contribute to it Or use and Report Any Bugs or fixes Required..
+
+`git clone https://github.com/SxNade/Mahakal`
+
+
