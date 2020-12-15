@@ -26,6 +26,10 @@ To run Mahakal Simply Execute the Following Command....with respective values...
 
 `python3 mahakal.py <hash-value> <hash-type> <path-to-password-file>`
 
+**SPECIFY DIFFERENT TYPES OF HASHES USING FOLLOWING KEYWORDS**
+
+`md5,sha1,sha256,sha512`
+
 ![Capture](https://raw.githubusercontent.com/SxNade/Mahakal/main/h512.png)
 
 # 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢
