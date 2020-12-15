@@ -1,3 +1,7 @@
+#By SxNade
+#https://github.com/SxNade
+#CONTRIBUTE
+
 import hashlib
 import os
 import sys
