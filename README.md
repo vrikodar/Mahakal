@@ -56,5 +56,7 @@ To run Mahakal Simply Execute the Following Command....with respective values...
 # 𝑴𝑨𝑲𝑬_𝑰𝑻_𝑩𝑬𝑻𝑻𝑬𝑹
 To make Mahakal Even Better Contribute to it Or use and Report Any Bugs or fixes Required..
 
+**`COMPLIED EXECUTABLE FOR WINDOWS IS ALSO AVAILABLE TO USE DIRECTLY FROM THE COMMAND PROMPT IN THE SAME FORMAT OF OPTIONS`**
+
 `git clone https://github.com/SxNade/Mahakal`
 
