@@ -41,6 +41,7 @@ To run Mahakal Simply Execute the Following Command....with respective values...
 
 `python3 mahakal.py <hash-value> <hash-type> <path-to-password-file>`
 
+![Capture](https://raw.githubusercontent.com/SxNade/Mahakal/main/h512.png)
 
 # 𝑴𝑨𝑲𝑬_𝑰𝑻_𝑩𝑬𝑻𝑻𝑬𝑹
 To make Mahakal Even Better Contribute to it Or use and Report Any Bugs or fixes Required..
