@@ -27,13 +27,13 @@
 
 *Supported Hash Types with Mahakal*
 
-*`MD5`*
+*`*MD5`*
 
-*`SHA-1`*
+*`*SHA-1`*
 
-*`SHA-256`*
+*`*SHA-256`*
 
-*`SHA-512`*
+*`*SHA-512`*
 
 
 # 𝙍𝙐𝙉𝙉𝙄𝙉𝙂
