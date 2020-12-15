@@ -8,4 +8,5 @@
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/SxNade)
 
 # Mahakal
-Mahakal is a light weight CPU friendly Hash Cracker  
+
+`Mahakal is a light weight CPU friendly Hash Cracker`  
