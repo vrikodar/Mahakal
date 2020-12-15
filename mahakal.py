@@ -28,7 +28,7 @@ X8888 X8888  88888   "*8%-    us888u.   888E .z8k     us888u.    888E u@8NL     
 
 
 print(golo)
-time.sleep(2)
+time.sleep(1.4)
 supported_hashes = '''
 \n
 [--Supported Hash Types--]
