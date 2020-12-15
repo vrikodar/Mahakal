@@ -35,6 +35,11 @@
 
 *`*SHA-512`*
 
+**`IF YOU DON'T KNOW THE TYPE OF HASH YOU WANT TO CRACK YOU CAN USE A TOOL hashid TO FIND THE TYPE OF YOUR HASH`**
+
+`hashid <hash-value>`
+
+![Capture](https://raw.githubusercontent.com/SxNade/Mahakal/main/hashid.png)
 
 # 𝙍𝙐𝙉𝙉𝙄𝙉𝙂
 To run Mahakal Simply Execute the Following Command....with respective values....
