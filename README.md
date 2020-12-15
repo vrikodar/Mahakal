@@ -11,4 +11,4 @@
 
 `Mahakal is a light weight CPU friendly Hash Cracker`  
 
-![Capture](https://media.tenor.com/images/7e7e24015fe8e8a321548b4bed0c1d1e/tenor.gif)
+![Capture](https://i.pinimg.com/474x/ab/6b/a8/ab6ba8ce18821eb970573162038cd284.jpg)
