@@ -21,6 +21,13 @@
 
 `2 ./install.sh`
 
+# 𝙍𝙐𝙉𝙉𝙄𝙉𝙂
+To run Mahakal Simply Execute the Following Command....with respective values....
+
+`python3 mahakal.py <hash-value> <hash-type> <path-to-password-file>`
+
+![Capture](https://raw.githubusercontent.com/SxNade/Mahakal/main/h512.png)
+
 # 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢
 
 **`Use Python3 to run the Program`**
@@ -41,16 +48,9 @@
 
 ![Capture](https://raw.githubusercontent.com/SxNade/Mahakal/main/hashid.png)
 
-# 𝙍𝙐𝙉𝙉𝙄𝙉𝙂
-To run Mahakal Simply Execute the Following Command....with respective values....
-
-`python3 mahakal.py <hash-value> <hash-type> <path-to-password-file>`
-
-![Capture](https://raw.githubusercontent.com/SxNade/Mahakal/main/h512.png)
 
 # 𝑴𝑨𝑲𝑬_𝑰𝑻_𝑩𝑬𝑻𝑻𝑬𝑹
 To make Mahakal Even Better Contribute to it Or use and Report Any Bugs or fixes Required..
 
 `git clone https://github.com/SxNade/Mahakal`
-
 
