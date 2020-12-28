@@ -38,6 +38,8 @@ supported_hashes = '''
         *SHA-512
 \n
 '''
+#printing the supported hash types...--///
+
 print(colored(supported_hashes, 'green'))
 
 
@@ -103,4 +105,5 @@ with open(pass_file, 'r') as file:
     print(print(colored("\n\n[!]Incorrect or Unsupported Hash Type or Password Not Found \n\n", 'red', attrs=['bold'])))
     print(print(colored("\n[*]Please Recheck the arguments you gave\n", 'red', attrs=['bold'])))
     sys.exit(0)
+    #this is really annoying --- check your arguments--!Oh!
 
