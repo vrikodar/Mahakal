@@ -1,4 +1,4 @@
-echo [+] Mahakal By SxNade.......https://github.com/SxNade
+echo [+] Mahakal By SxNade.......https://github.com/SxNade/Mahakal
 echo [*] This Script will install all the required Dependencies....
 apt install python3-pip
 pip3 install termcolor
