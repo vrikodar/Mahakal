@@ -31,7 +31,7 @@ To run Mahakal Simply Execute the Following Command....with respective values...
 
 `md5,sha1,sha256,sha512`
 
-![Capture](https://raw.githubusercontent.com/SxNade/Mahakal/main/h512.png)
+![Capture](https://github.com/SxNade/Mahakal/blob/main/crack2.gif)
 
 # 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢
 
