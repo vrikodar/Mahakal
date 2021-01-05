@@ -28,6 +28,8 @@ X8888 X8888  88888   "*8%-    us888u.   888E .z8k     us888u.    888E u@8NL     
 
 
 print(golo)
+time.sleep(1)
+print("Mahakal (v1.1) starting...")
 time.sleep(1.4)
 supported_hashes = '''
 \n
