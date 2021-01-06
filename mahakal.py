@@ -46,7 +46,7 @@ print(colored(supported_hashes, 'green'))
 
 
 if len(sys.argv) != 4:
-    print("[*]Usage python3 mahakal.py <hash-value> <hash-type> <path-to-password-file>\n")
+    print(colored("[*]Usage python3 mahakal.py <hash-value> <hash-type> <path-to-password-file>\n", 'white', attrs=['reverse', 'blink']))
     sys.exit(0)
     #Checking for correct number of arguments
 
