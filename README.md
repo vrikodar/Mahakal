@@ -13,7 +13,7 @@
 ![Capture](https://media.tenor.com/images/7e7e24015fe8e8a321548b4bed0c1d1e/tenor.gif)
 
 
-`Mahakal is a light weight CPU friendly Hash Cracker`  
+`Mahakal is a lightening fast CPU friendly Hash Cracker`  
 
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
