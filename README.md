@@ -51,7 +51,7 @@ To run Mahakal Simply Execute the Following Command....with respective values...
 
 `hashid <hash-value>`
 
-![Capture](https://raw.githubusercontent.com/SxNade/Mahakal/main/hashid.png)
+![Capture](https://github.com/SxNade/Mahakal/blob/main/hash-id.gif)
 
 
 # 𝑴𝑨𝑲𝑬_𝑰𝑻_𝑩𝑬𝑻𝑻𝑬𝑹
