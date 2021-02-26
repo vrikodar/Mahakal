@@ -15,6 +15,9 @@
 
 `Mahakal is a lightening fast CPU friendly Hash Cracker`  
 
+# FINGERPRINT
+
+**sha256sum** --> `c9d01aa76f8fd7cdfafdcc87f863c14a5e826ae5d7840c872aae376876d3250d`
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
 
