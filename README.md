@@ -21,9 +21,10 @@
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
 
-` 1 chmod +x install.sh`
-
-`2 ./install.sh`
+        $ git clone https://github.com/SxNade/Mahakal
+        $ cd Mahakal/
+        $ chmod +x install.sh
+        $ ./instal.sh
 
 # 𝙍𝙐𝙉𝙉𝙄𝙉𝙂
 To run Mahakal Simply Execute the Following Command....with respective values....
