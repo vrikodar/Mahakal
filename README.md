@@ -29,6 +29,10 @@ To run Mahakal Simply Execute the Following Command....with respective values...
 
 ![Capture](https://github.com/SxNade/Mahakal/blob/main/crack2.gif)
 
+# Support For windows10
+
+**Directly run the mahakal.exe from the command prompt**
+
 # 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢
 
 **`Use Python3 to run the Program`**
