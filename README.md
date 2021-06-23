@@ -2,7 +2,7 @@
 
 # Mahakal
 
-![Capture](https://media.tenor.com/images/7e7e24015fe8e8a321548b4bed0c1d1e/tenor.gif)
+![Capture](https://i.pinimg.com/originals/c7/51/4c/c7514c0139a01e05a02bc0e5fdcec013.jpg)
 
 
 `Mahakal is a lightening fast CPU friendly Hash Cracker`  
