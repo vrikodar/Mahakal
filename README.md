@@ -33,6 +33,8 @@ To run Mahakal Simply Execute the Following Command....with respective values...
 
 **Directly run the mahakal.exe from the command prompt**
 
+![Mahakal](https://github.com/SxNade/Mahakal/blob/main/mahakal.gif)
+
 # 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢
 
 **`Use Python3 to run the Program`**
