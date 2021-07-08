@@ -1,6 +1,7 @@
 #By SxNade
 #https://github.com/SxNade/Mahakal
 #CONTRIBUTE
+#Author z3r0day
 
 import hashlib
 import os
