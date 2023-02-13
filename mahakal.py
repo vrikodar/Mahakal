@@ -2,6 +2,7 @@
 #https://github.com/SxNade/Mahakal
 #CONTRIBUTE
 #Author z3r0day
+# Contribute: ankushbhagatofficial
 
 import hashlib
 import os
@@ -61,7 +62,7 @@ if os.path.exists(pass_file) == False:
     sys.exit(0)
 #Check if the specified password file exists or not...
 
-with open(pass_file, 'r') as file:
+with open(pass_file, 'r', encoding='latin-1') as file:
     for line in file.readlines():
         #open and read the file containig passwords to check with
         if hash_type == 'md5':
